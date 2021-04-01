@@ -19,7 +19,9 @@ Convolutional Neural Networks](https://arxiv.org/pdf/1803.06904.pdf)
 
 ## Architecture
 
-![Lanen-net_3](Images/images.png)
+![Lanen-net_2](Images/image.png)
+![Lanen-net_3](Images/lanenet.png)
+
 
 
 
