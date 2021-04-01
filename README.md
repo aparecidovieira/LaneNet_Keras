@@ -60,3 +60,12 @@ optional arguments:
   --model MODEL         The model you are using. Currently supports:
                         fusionNet, fusionNet2, unet, fusionnet_atten, temp,
                         vgg_unet, fusionnet_ppl
+
+
+```
+
+## Results
+
+![Lanen-net_4](Images/image4.png)
+![Lanen-net_5](Images/image5.png)
+![Lanen-net_6](Images/image6.png)
