@@ -1,7 +1,7 @@
 # LaneNet_Keras
 
 
-Implementation of Fusion Net Keras based on the paper FusionNet:[Aerial LaneNet: Lane Marking Semantic
+Implementation of LaneNet Keras based on the paper FusionNet:[Aerial LaneNet: Lane Marking Semantic
 Segmentation in Aerial Imagery using
 Wavelet-Enhanced Cost-sensitive Symmetric Fully
 Convolutional Neural Networks](https://arxiv.org/pdf/1803.06904.pdf)
@@ -12,9 +12,9 @@ Convolutional Neural Networks](https://arxiv.org/pdf/1803.06904.pdf)
 * Keras > 2.0
 * OpenCV
 
-## Medical Image
+## Aerial Image
 
-![fusion-net_1](images/1-Figure1-1.png)
+![fusion-net_1](images/images2.jpeg)
 
 
 ## Architecture
