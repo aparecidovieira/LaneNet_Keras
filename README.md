@@ -14,12 +14,12 @@ Convolutional Neural Networks](https://arxiv.org/pdf/1803.06904.pdf)
 
 ## Aerial Image
 
-![Lane-net_1](Images/images2.jpeg)
+![Lane-net_1](Images/image2.jpeg)
 
 
 ## Architecture
 
-![Lanen-net_2](Images/image.png)
+![Lanen-net_2](Images/images.png)
 ![Lanen-net_3](Images/lanenet.png)
 
 
