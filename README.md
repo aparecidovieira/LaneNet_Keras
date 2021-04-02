@@ -69,3 +69,6 @@ optional arguments:
 ![Lanen-net_4](Images/image4.png)
 ![Lanen-net_5](Images/image5.png)
 ![Lanen-net_6](Images/image6.png)
+![Lanen-net_5](Images/20_894337_406010_0.png)
+![Lanen-net_6](Images/20_894332_407055.png)
+
